@@ -1,0 +1,67 @@
+.stock{
+    font-family: 'Poiret One', sans-serif;
+    font-size: 4em;
+    padding-top: 50px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.stock b{
+    font-size: 1.5em;
+}
+
+@media screen and (max-width: 385px){
+    .stock b{
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .stock h3{
+        font-size: 0.5em!important;
+    }
+}
+
+.stock hr{
+    margin: auto;
+    width: 50%; 
+    border: 1px solid silver;
+}
+
+.stocksstocks{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.stocks{
+    text-align: center;
+    margin-bottom: 50px;
+    display: block;
+    width: 100%;
+    margin: center;
+    padding-left: 10px;
+    transition: 0.7s;
+}
+
+.stocks h1{
+    padding-top: 15px;
+    padding-bottom: 30px;
+    font-family: 'Poiret One', sans-serif;
+    
+}
+
+.stocks img{
+    height: 150px;
+}
+
+.stocks p{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.stocks:hover{
+    background-color: #ffc107;
+    
+    border-radius: 10px;
+}
+

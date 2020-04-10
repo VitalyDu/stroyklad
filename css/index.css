@@ -1,0 +1,351 @@
+.carousel-control-prev-icon {
+
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+
+}
+
+
+
+.carousel-control-next-icon {
+
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+
+}
+
+
+
+@media screen and (max-width: 535px){
+
+.stock h1{
+
+    font-size: 0.5em;
+
+}
+
+.akcii h2{
+
+    font-size: 2em;
+
+}
+
+.h2{
+
+    font-size: 2em;
+
+}
+
+.production h2{
+
+    font-size: 2em;
+
+}
+
+.contact h2{
+
+    font-size: 2em;
+
+}
+
+}
+
+
+
+@media screen and (min-width: 992px){
+
+.image{
+
+    padding-left: 55px;
+
+}
+
+.productiontext{
+
+    padding-top: 50px;
+
+}
+
+}
+
+
+
+.map{
+
+    padding-right: 55px;
+
+}
+
+
+
+.h2{
+
+    font-family: 'Poiret One', sans-serif;
+
+    padding-top: 50px;
+
+    text-align: center;
+
+    width: 100%;
+
+}
+
+
+
+.text{
+
+    padding-top: 30px;
+
+    font-size: 1.3em;
+
+    text-align: left;
+
+}
+
+
+
+.akcii{
+
+    text-align: center;
+
+}
+
+
+
+.akcii img{
+
+}
+
+
+
+.akcii p{
+
+    padding-top: 20px;
+
+    font-size: 1.2em;
+
+}
+
+
+
+.akcii h2{
+
+    font-family: 'Poiret One', sans-serif;
+
+    padding-bottom: 20px;
+
+}
+
+
+
+.catalog{
+
+    width: 100%;
+
+    margin: auto;
+
+}
+
+
+
+.catal{
+
+    width: 100%;
+
+    padding-bottom: 40px;
+
+}
+
+
+
+.razdel a{
+
+    text-decoration: none;
+
+}
+
+
+
+.razdel{
+
+    float: right;
+
+    border: 1px solid black;
+
+    text-align: center;
+
+    width: 100%;
+
+}
+
+
+
+.razdel img{
+
+    height: 100%;
+
+    width: 100%;
+
+}
+
+
+
+.razdel h3{
+
+    padding-bottom: 20px;
+
+}
+
+
+
+.razdell a{
+
+    width: 100%;
+
+    padding: 10px;
+
+    text-decoration: none;
+
+    transition: 0.3s;
+
+    font-size: 1.2em;
+
+    float: right;
+
+}
+
+
+
+.production{
+
+    font-family: 'Poiret One', sans-serif;
+
+}
+
+
+
+.productiontext{
+
+    padding-left: 50px;
+
+    padding-right: 50px;
+
+    text-align: inherit;
+
+}
+
+
+
+.productionimage{
+
+    padding-top: 20px;
+
+    text-align: center;
+
+}
+
+
+
+.contact h2{
+
+    font-family: 'Poiret One', sans-serif;
+
+    padding-top: 20px;
+
+}
+
+
+
+.info{
+
+    padding-top: 10px;
+
+    width: 100%;
+
+    text-align: center;
+
+}
+
+
+
+.info h1{
+
+    font-family: 'Poiret One', sans-serif;
+
+}
+
+
+
+.grafik{
+
+    padding-top: 10px;
+
+}
+
+
+
+.cont{
+
+    padding-top: 10px;
+
+}
+
+
+
+#oval {
+
+    margin-top: 20px;
+
+    margin-bottom: 50px;
+
+    width: 100%;
+
+	height: 400px;
+
+	-moz-border-radius: 50px / 50px;
+
+	-webkit-border-radius: 50px / 50px;
+
+	border-radius: 50px / 50px;
+
+}
+
+#ovalproduct {
+
+    margin-top: 20px;
+
+    margin-bottom: 50px;
+
+    width: 80%;
+
+	height: 400px;
+
+	-moz-border-radius: 50px / 50px;
+
+	-webkit-border-radius: 50px / 50px;
+
+	border-radius: 50px / 50px;
+
+}
+
+
+
+@media screen and (max-width: 700px){
+
+    #oval{
+
+        height: 70%;
+
+    }
+
+    #ovalproduct{
+
+        height: 70%;
+
+    }
+    
+
+}
+
+
+
+
+

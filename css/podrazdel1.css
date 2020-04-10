@@ -1,0 +1,53 @@
+.doska{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+}
+
+.doska a{
+    text-decoration: none;
+    color: white;
+}
+
+.doska h3{
+    padding-top: 240px;
+}
+
+.bal{
+    height: 300px;
+    border-bottom: 4px solid #f0f0f0;
+    background: url('../image/балка.png') no-repeat center center;
+    background-blend-mode: multiply;
+    background-color: dimgray;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+
+.strop{
+    height: 300px;
+    border-bottom: 4px solid #f0f0f0;
+    background: url('../image/стропила.jpg') no-repeat center center;
+    background-blend-mode: multiply;
+    background-color: dimgray;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+
+.rei{
+    height: 300px;
+    border-bottom: 4px solid #f0f0f0;
+    background: url('../image/рейка.jpg') no-repeat center center;
+    background-blend-mode: multiply;
+    background-color: dimgray;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}

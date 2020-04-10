@@ -1,0 +1,561 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Exo+2|Montserrat+Alternates|Poiret+One|Spectral+SC');
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather:900&subset=cyrillic,cyrillic-ext');
+
+
+body, html {
+
+    padding: 0;
+
+    margin: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    color: #222;
+
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+
+
+.navbar{
+
+    border-bottom: 1px solid silver;
+
+}
+
+
+
+.ml-left{
+
+    margin-left: 50px;
+
+}
+
+
+
+.navbar-nav li{
+
+    font-size: 0.8em;
+
+    font-family: 'Exo 2', sans-serif;
+
+    padding-right: 20px;
+
+}
+
+
+
+.nav-link{
+
+    font-size: 1.1em !important;
+
+}
+
+
+
+.navbar-brand{
+
+    font-family: 'Comfortaa', sans-serif;
+
+    font-size: 1.3em;
+
+    border-radius: 5px;
+
+    padding-left: 5px; 
+
+    padding-right: 5px;
+
+}
+
+
+
+@media screen and (max-width: 456px){
+
+    .navbar-brand{
+
+        font-size: 0.9em;
+
+        margin-left: -10px;
+
+    }
+
+}
+
+
+
+.navbar-phone{
+
+    border-radius: 4px;
+
+    padding: 2px;
+
+    padding-top: 6px;
+
+    padding-bottom: 6px;
+
+    display: none;
+
+    font-size: 1.3em;
+
+}
+
+
+
+@media screen and (max-width: 750px){
+
+    .navbar-phone{
+
+        display: block;
+
+    }
+
+    .phonehead{
+
+        display: none;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 456px){
+
+    .navbar-phone{
+
+        font-size: 0.8em;
+
+        margin-left: -15px;
+
+    }
+
+}
+
+
+
+.phonehead{
+
+    border-radius: 5px;
+
+    text-align: center;
+
+}
+
+
+
+.fixed{
+
+    height: 400px;
+
+    border-top: 2px solid black;
+
+    border-bottom: 4px solid #f0f0f0;
+
+    background: url('../image/bg(1).jpg') no-repeat center center fixed;
+
+    background-blend-mode: multiply;
+
+    background-color: lightyellow;
+
+    background-size: cover;
+
+    -o-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -webkit-background-size: cover;
+
+}
+
+
+
+.jumbotron{
+
+    padding: 1em;
+
+    border-radius: 0;
+
+    width: 90%;
+
+    margin: 0 auto;
+
+    margin-top: 40px;
+
+    margin-bottom: 60px;
+
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Kosugi+Maru|Prosto+One|Rubik+Mono+One|Russo+One|Seymour+One|Yeseva+One&subset=cyrillic');
+
+.jumbotron h2{
+
+    padding-bottom: 30px;
+
+    text-align: center; 
+
+    padding-top: 20px; 
+
+    font-family: 'Poiret One', sans-serif;
+
+}
+
+
+
+.delivery{
+
+    padding-top: 40px;
+
+    padding-left: 100px;
+
+}
+
+
+
+.whyeco h1{
+
+    text-align: center;
+
+    font-family: 'Poiret One', sans-serif;
+
+}
+
+
+
+.whyeco hr{
+
+    width: 40%;
+
+}
+
+
+
+.ecovata{
+
+    text-align: center;
+
+    padding-left: 40px;
+
+    padding-right: 40px;
+
+}
+
+
+
+.ecovata h3{
+
+    text-align: center;
+
+    font-family: 'Poiret One',sans-serif;
+
+    color: #3d3c3c;
+
+}
+
+
+
+.ecovata p{
+
+    text-align: center;
+
+    font-size: 0.8em;
+
+    font-family: 'Exo 2', sans-serif;
+
+    color: #615d5d;
+
+}
+
+
+
+.footer{
+
+    padding-top: 30px;
+
+    padding-bottom: 40px;
+
+    padding-left: 40px;
+
+    padding-right: 40px;
+
+    background-color: black;
+
+}
+
+
+
+.footer .brand{
+
+    padding-top: 50px;
+
+    text-align: center;
+
+}
+
+
+
+.footer .links{
+
+    padding-top: 50px;
+
+}
+
+
+
+.viber{
+
+    background-color: rgb(101,092,172);
+
+}
+
+
+
+.footer .nav-item{
+
+    text-align: center;
+
+}
+
+
+
+.social li{
+
+    width: 100%;
+
+}
+
+
+
+@media screen and (max-width: 767px)
+
+{
+
+    .social li{
+
+        width: 100%;
+
+    }
+
+}
+
+
+
+.footer .contacts{
+
+    padding-top: 30px;
+
+    text-align: center;
+
+}
+
+
+
+.footer h1{
+
+    font-family: 'Poiret One', sans-serif;
+
+    font-size: 2.5em;
+
+    color: black;
+
+    opacity: 0.8;
+
+}
+
+
+
+.footer p{
+
+    padding-top: 10px;
+
+    color: black;
+
+}
+
+
+
+@media screen and (max-width: 392px){
+
+.razdel h3{
+
+    font-size: 1.3em;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#wrapper
+
+{
+
+	margin: 50px auto;
+
+	width: 673px;
+
+}
+
+#container
+
+{
+
+	background: #fff;
+
+	border-bottom: 1px solid #ccc;
+
+	border-right: 1px solid #ccc;
+
+	height: 235px;
+
+	padding: 32px;
+
+	position: relative;
+
+}
+
+.sliderbutton
+
+{
+
+	cursor: pointer;
+
+	float: left;
+
+	height: 235px;
+
+	width: 25px;
+
+}
+
+#slideleft
+
+{
+
+	background: url(images/icons.gif) -50px -265px no-repeat;
+
+}
+
+#slideleft:hover
+
+{
+
+	background-position: -0 -265px;
+
+}
+
+#slideright
+
+{
+
+	background: url(images/icons.gif) 0 90px no-repeat;
+
+}
+
+#slideright:hover
+
+{
+
+	background-position: -50px 90px;
+
+}
+
+#slider
+
+{
+
+	float: left;
+
+	height: 235px;
+
+	overflow: auto;
+
+	position: relative;
+
+	width: 558px;
+
+}
+
+#slider ul
+
+{
+
+	left: 0;
+
+	list-style: none;
+
+	position: absolute;
+
+	top: 0;
+
+}
+
+#slider li
+
+{
+
+	float: left;
+
+}
+
+.pagination
+
+{
+
+	height: 25px;
+
+	list-style: none;
+
+	position: absolute;
+
+	right: 61px;
+
+	top: 40px;
+
+}
+
+.pagination li
+
+{
+
+	background: #ccc;
+
+	border: 1px solid #fff;
+
+	cursor: pointer;
+
+	float: left;
+
+	height: 8px;
+
+	margin: 0 4px 0 0;
+
+	width: 8px;
+
+}
+
+.pagination li:hover, li.current
+
+{
+
+	background: #fff;
+
+}
+

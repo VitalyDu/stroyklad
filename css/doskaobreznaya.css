@@ -1,0 +1,263 @@
+.put{
+
+    margin: auto;
+
+    text-align: center;
+
+    font-size: 1em;
+
+    padding-bottom: 40px;
+
+}
+
+
+
+@media screen and (max-width:400px)
+
+{
+
+    .put a{
+
+        font-size: 0.45em;
+
+    }
+
+}
+
+
+
+@media (max-width:500px) and (min-width:400px)
+
+{
+
+    .put a{
+
+        font-size: 0.6em;
+
+    }
+
+}
+
+
+
+@media (max-width:600px) and (min-width:500px)
+
+{
+
+    .put a{
+
+        font-size: 0.8em;
+
+    }
+
+}
+
+
+
+.put a{
+
+    text-decoration: none;
+
+    padding: 7px;
+
+    border-radius: 5px;
+
+}
+
+
+
+.prodimg{
+
+    float:left;
+
+}
+
+
+
+.prodtext{
+
+    float: right;
+
+}
+
+
+
+.prodtext{
+
+    padding-bottom: 50px;
+
+}
+
+
+
+.prodopic{
+
+    width: 100%;
+
+    text-align: center;
+
+}
+
+
+
+.zakaz{
+
+    font-size: 1em;
+
+    line-height: 30px;
+
+}
+
+
+
+@media screen and (max-width: 320px){
+
+    .zakaz{
+
+        font-size: 0.7em;
+
+        line-height: 20px;
+
+    }
+
+    .zakaz a{
+
+    }
+
+    .zakaz button{
+
+    }
+
+}
+
+
+
+.doska{
+
+    text-align: center;
+
+    padding-left: 10px;
+
+    padding-right: 10px;
+
+    padding-bottom: 50px;
+
+}
+
+
+
+.doska a{
+
+    text-decoration: none;
+
+    color: white;
+
+}
+
+
+
+.doska h3{
+
+    padding-top: 240px;
+
+}
+
+
+
+.bal{
+
+    height: 300px;
+
+    border-bottom: 4px solid #f0f0f0;
+
+    background: url('../image/балка.png') no-repeat center center;
+
+    background-blend-mode: multiply;
+
+    background-color: dimgray;
+
+    background-size: cover;
+
+    -o-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -webkit-background-size: cover;
+
+}
+
+
+
+
+
+.strop{
+
+    height: 300px;
+
+    border-bottom: 4px solid #f0f0f0;
+
+    background: url('../image/стропила.jpg') no-repeat center center;
+
+    background-blend-mode: multiply;
+
+    background-color: dimgray;
+
+    background-size: cover;
+
+    -o-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -webkit-background-size: cover;
+
+}
+
+
+
+
+
+.rei{
+
+    height: 300px;
+
+    border-bottom: 4px solid #f0f0f0;
+
+    background: url('../image/рейка.jpg') no-repeat center center;
+
+    background-blend-mode: multiply;
+
+    background-color: dimgray;
+
+    background-size: cover;
+
+    -o-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -webkit-background-size: cover;
+
+}
+
+
+
+.prodtext{
+
+    padding-right: 50px;
+    margin-top: 50px;
+
+}
+
+
+
+.prodimg{
+
+    padding-bottom: 50px;
+
+    padding-right: 50px;
+
+}
+
+.table-inverse {
+            color: #fff;
+            background-color: #373a3c;
+        }

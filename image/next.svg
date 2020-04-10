@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="navigation/arrow_forward_ios_24px">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="6" y="2" width="12" height="20">
+<path id="icon/navigation/arrow_forward_ios_24px" d="M6.99812 21.015C7.48812 21.505 8.27812 21.505 8.76812 21.015L17.0781 12.705C17.4681 12.315 17.4681 11.685 17.0781 11.295L8.76812 2.98499C8.27812 2.49499 7.48812 2.49499 6.99812 2.98499C6.50812 3.47499 6.50812 4.26499 6.99812 4.75499L14.2381 12.005L6.98812 19.255C6.50812 19.735 6.50812 20.535 6.99812 21.015Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="&#240;&#159;&#142;&#168; Fill">
+<rect id="&#240;&#159;&#142;&#168; Fill_2" width="24" height="24" fill="black"/>
+</g>
+</g>
+</g>
+</svg>
